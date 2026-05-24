@@ -1,6 +1,7 @@
 ## Hi, I'm Zeynep 👋
 
 **Junior QA Automation Engineer** | Open to Remote & On-site
+
 Electronics & Communication Engineering background
 
 ---
