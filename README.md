@@ -36,9 +36,9 @@ Electronics & Communication Engineering background
 
 ### 📊 Stats
 
-- 📋 125+ manual test cases
-- 🤖 70 automated tests (3 browsers + Android)
-- 🐛 26+ bug reports
+- 📋 138 manual test cases
+- 🤖 77 automated tests (3 browsers + Android)
+- 🐛 38 bug reports
 - 💰 Paid beta tester (BetaTesting.com — May 2026)
 
 ---
